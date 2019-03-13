@@ -12,12 +12,9 @@ pool:
 steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
+- task: myPublisherId.myExtensionId.myTaskName@1
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
-
-
-steps:
-- task: myPublisherId.myExtensionId.myTaskName@1
