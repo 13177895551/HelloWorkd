@@ -5,7 +5,7 @@ android {
         release_signing {
             keyAlias 'Testing'
             keyPassword 'coaPass'
-            storeFile file('B:/work01/HelloWorld/Hello World/keystore/keystore.jks')
+            storeFile file('B:/work01/HelloWorld/Hello World/app/keystore.jks')
             storePassword 'coaPass'
         }
     }
