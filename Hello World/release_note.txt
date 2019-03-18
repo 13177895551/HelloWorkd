@@ -2,11 +2,3 @@
 Sync tasks with Microsoft To Do
 New Cortana on Home screen
 </en-US>
-
-<en-AU>
-Bug fixes
-</en-AU>
-
-<en-GB>
-Bug fixes
-</en-GB>
